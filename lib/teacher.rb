@@ -5,7 +5,8 @@ class Teacher < User
     "Ruby method call definition", 
     "object oriented dog cat class instance", 
     "class method class variable instance method instance variable", 
-    "programming computers hacking learning terminal", "bash Ruby rvm update certs"]
+    "programming computers hacking learning terminal", 
+    "bash Ruby rvm update certs"]
 
   
 end
